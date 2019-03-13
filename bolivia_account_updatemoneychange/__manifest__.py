@@ -13,8 +13,9 @@ Carcteristicas:
 
 """,
     'author': 'Prosebol',
-    'website': '',
+    'website': 'https://www.prosebol.com/',
     'images': [],
+    'license': 'AGPL-3',
     'depends': ['account'],
     'data': [
         'views/account_updatechangemoney_template.xml',
