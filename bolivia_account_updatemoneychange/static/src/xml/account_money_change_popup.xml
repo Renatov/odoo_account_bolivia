@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<templates id="template" xml:space="preserve">
+<div t-name="bolivia_account_updatemoneychange.form_money_change_popup" class="o_bg_img_opt_modal">
+        <form string="Inserte el cambio actual para cada moneda">
+          <separator string="Tipo de cambio"/>
+          <group>
+              <table id="account_money_change_actual">
+			  </table>
+          </group>
+      </form>   
+</div>
+</templates>
