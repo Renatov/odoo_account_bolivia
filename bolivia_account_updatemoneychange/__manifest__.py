@@ -1,5 +1,5 @@
 {
-    'name': 'Comprueba el cambio diario de moneda ',
+    'name': 'Comprueba el cambio diario de moneda - Update change money day',
     'version': '1.0',
     'category': 'Accounting Management',
     'description': """
