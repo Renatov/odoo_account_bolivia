@@ -12,8 +12,8 @@ Carcteristicas:
 - Abre un formulario automaticamente para que se pueda actualizar si no se ha realizado el registro del cambio del dia
 
 """,
-    'author': 'Prosebol',
-    'website': 'https://www.prosebol.com/',
+    'author': 'PROSBOL',
+    'website': 'https://www.prosbol.com/',
     'images': [],
     'license': 'AGPL-3',
     'depends': ['account'],
